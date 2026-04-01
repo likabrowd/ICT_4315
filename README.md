@@ -1,4 +1,4 @@
-# ICT_4315
+# ICT4315 Object Orientd Programming
 
 ## Contributors
 - Professor Nathan Braun
