@@ -1,5 +1,5 @@
 # ICT4315 Object Oriented Programming
 
 ## Contributors
-- Professor Nathan Braun
+- Nathan Braun
 - Kalika Browder
